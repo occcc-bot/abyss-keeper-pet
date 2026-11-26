@@ -1,4 +1,4 @@
-name: CI
+name: CI & Deploy Web Demo
 
 on:
   push:
@@ -6,9 +6,12 @@ on:
   pull_request:
     branches: [main]
 
+permissions:
+  contents: write
+
 jobs:
-  verify:
-    name: Typecheck, Unit Tests & Web Build
+  verify-and-deploy:
+    name: Typecheck, Unit Tests & Update GitHub Pages
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -21,3 +24,12 @@ jobs:
       - run: npm run typecheck
       - run: npm run test:unit
       - run: npm run build
+      - name: Add .nojekyll for GitHub Pages
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        run: touch dist/.nojekyll
+      - name: Deploy dist/ to gh-pages branch
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
