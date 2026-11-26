@@ -18,7 +18,7 @@
 ### 网页试玩
 - 👉 **在线试玩地址**：**[https://occcc-bot.github.io/abyss-keeper-pet/](https://occcc-bot.github.io/abyss-keeper-pet/)**  
 
-### 方式二：Windows 桌面透明穿透完整版（推荐！）
+### Windows 桌面透明穿透完整版（推荐！）
 1. **点击直接下载压缩包**：👉 **[AbyssKeeperPet-v2.5.0-Win64.zip（约 11 MB）](https://github.com/occcc-bot/abyss-keeper-pet/releases/latest/download/AbyssKeeperPet-v2.5.0-Win64.zip)**  
 
 ---
