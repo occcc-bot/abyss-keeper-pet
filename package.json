@@ -1,0 +1,32 @@
+{
+  "name": "abyss-keeper-pet",
+  "version": "2.5.0",
+  "description": "A Bullfrog-inspired dark Gothic desktop-pet idle dungeon manager sitting right above your Windows taskbar (Tauri v2 + PixiJS v8).",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "dev:web": "vite --host 127.0.0.1 --port 5173",
+    "build": "tsc --noEmit && vite build",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:unit": "vitest run tests/core",
+    "sim:verify": "vitest run tests/sim/balance.bench.ts",
+    "verify:visual": "playwright test",
+    "lint:copy": "node -e \"const {execSync}=require('child_process');const p='魔物娘|monster girl|改邪归正|圣盾|坦白从宽|以战养战|Reformed legendary|久坐记得喝口水|凝胶软泥娘';try{const o=execSync('grep -rnEi \\\"'+p+'\\\" src/ index.html tests/ --exclude=dungeonCore.test.ts',{encoding:'utf8'});console.error('COPY LINT FAILED:\\n'+o);process.exit(1);}catch(e){if(e.status===1){console.log('lint:copy PASS (0 hits)');process.exit(0);}throw e;}\"",
+    "test:rust": "rustc --edition 2021 --test src-tauri/src/geometry.rs -o /tmp/keeper_pet_geometry_tests && /tmp/keeper_pet_geometry_tests --nocapture && rm -f /tmp/keeper_pet_geometry_tests && cargo xwin test --manifest-path src-tauri/Cargo.toml --lib --target x86_64-pc-windows-msvc --no-run",
+    "build:win": "npm run build && cargo xwin build --release --manifest-path src-tauri/Cargo.toml --target x86_64-pc-windows-msvc",
+    "check:win": "cargo xwin check --manifest-path src-tauri/Cargo.toml --target x86_64-pc-windows-msvc"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^2.5.0",
+    "pixi.js": "^8.9.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.48.2",
+    "@types/node": "^22.15.0",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5",
+    "vitest": "^3.1.3"
+  }
+}

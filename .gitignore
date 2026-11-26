@@ -1,0 +1,25 @@
+# Dependencies & Build Outputs
+node_modules/
+.venv/
+dist/
+src-tauri/target/
+release/
+*.exe
+*.msi
+*.nsis
+
+# Local caches & test reports
+.cache/
+.temp/
+tmp/
+playwright-report/
+test-results/
+coverage/
+
+# OS & Secrets
+.env
+.env.*
+*.pem
+*.key
+*:Zone.Identifier
+.DS_Store

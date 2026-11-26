@@ -1,0 +1,4257 @@
+{
+  "frames": {
+    "lilith_overlord_idle_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "lilith_overlord_idle_1": {
+      "frame": {
+        "x": 48,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "lilith_overlord_walk_0": {
+      "frame": {
+        "x": 96,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "lilith_overlord_walk_1": {
+      "frame": {
+        "x": 144,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "lilith_overlord_walk_2": {
+      "frame": {
+        "x": 192,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "lilith_overlord_action_0": {
+      "frame": {
+        "x": 240,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "lilith_overlord_action_1": {
+      "frame": {
+        "x": 288,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "lilith_overlord_dangle_struggle": {
+      "frame": {
+        "x": 336,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "lilith_overlord_slapped_react": {
+      "frame": {
+        "x": 384,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "elizabeth_overlord_idle_0": {
+      "frame": {
+        "x": 0,
+        "y": 48,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "elizabeth_overlord_idle_1": {
+      "frame": {
+        "x": 48,
+        "y": 48,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "elizabeth_overlord_walk_0": {
+      "frame": {
+        "x": 96,
+        "y": 48,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "elizabeth_overlord_walk_1": {
+      "frame": {
+        "x": 144,
+        "y": 48,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "elizabeth_overlord_walk_2": {
+      "frame": {
+        "x": 192,
+        "y": 48,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "elizabeth_overlord_action_0": {
+      "frame": {
+        "x": 240,
+        "y": 48,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "elizabeth_overlord_action_1": {
+      "frame": {
+        "x": 288,
+        "y": 48,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "elizabeth_overlord_dangle_struggle": {
+      "frame": {
+        "x": 336,
+        "y": 48,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "elizabeth_overlord_slapped_react": {
+      "frame": {
+        "x": 384,
+        "y": 48,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "imp_idle_0": {
+      "frame": {
+        "x": 0,
+        "y": 96,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "imp_idle_1": {
+      "frame": {
+        "x": 48,
+        "y": 96,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "imp_walk_0": {
+      "frame": {
+        "x": 96,
+        "y": 96,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "imp_walk_1": {
+      "frame": {
+        "x": 144,
+        "y": 96,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "imp_walk_2": {
+      "frame": {
+        "x": 192,
+        "y": 96,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "imp_action_0": {
+      "frame": {
+        "x": 240,
+        "y": 96,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "imp_action_1": {
+      "frame": {
+        "x": 288,
+        "y": 96,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "imp_dangle_struggle": {
+      "frame": {
+        "x": 336,
+        "y": 96,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "imp_slapped_react": {
+      "frame": {
+        "x": 384,
+        "y": 96,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "slime_girl_idle_0": {
+      "frame": {
+        "x": 0,
+        "y": 144,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "slime_girl_idle_1": {
+      "frame": {
+        "x": 48,
+        "y": 144,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "slime_girl_walk_0": {
+      "frame": {
+        "x": 96,
+        "y": 144,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "slime_girl_walk_1": {
+      "frame": {
+        "x": 144,
+        "y": 144,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "slime_girl_walk_2": {
+      "frame": {
+        "x": 192,
+        "y": 144,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "slime_girl_action_0": {
+      "frame": {
+        "x": 240,
+        "y": 144,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "slime_girl_action_1": {
+      "frame": {
+        "x": 288,
+        "y": 144,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "slime_girl_dangle_struggle": {
+      "frame": {
+        "x": 336,
+        "y": 144,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "slime_girl_slapped_react": {
+      "frame": {
+        "x": 384,
+        "y": 144,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "skeleton_blademaid_idle_0": {
+      "frame": {
+        "x": 0,
+        "y": 192,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "skeleton_blademaid_idle_1": {
+      "frame": {
+        "x": 48,
+        "y": 192,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "skeleton_blademaid_walk_0": {
+      "frame": {
+        "x": 96,
+        "y": 192,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "skeleton_blademaid_walk_1": {
+      "frame": {
+        "x": 144,
+        "y": 192,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "skeleton_blademaid_walk_2": {
+      "frame": {
+        "x": 192,
+        "y": 192,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "skeleton_blademaid_action_0": {
+      "frame": {
+        "x": 240,
+        "y": 192,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "skeleton_blademaid_action_1": {
+      "frame": {
+        "x": 288,
+        "y": 192,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "skeleton_blademaid_dangle_struggle": {
+      "frame": {
+        "x": 336,
+        "y": 192,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "skeleton_blademaid_slapped_react": {
+      "frame": {
+        "x": 384,
+        "y": 192,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "imp_witch_idle_0": {
+      "frame": {
+        "x": 0,
+        "y": 240,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "imp_witch_idle_1": {
+      "frame": {
+        "x": 48,
+        "y": 240,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "imp_witch_walk_0": {
+      "frame": {
+        "x": 96,
+        "y": 240,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "imp_witch_walk_1": {
+      "frame": {
+        "x": 144,
+        "y": 240,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "imp_witch_walk_2": {
+      "frame": {
+        "x": 192,
+        "y": 240,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "imp_witch_action_0": {
+      "frame": {
+        "x": 240,
+        "y": 240,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "imp_witch_action_1": {
+      "frame": {
+        "x": 288,
+        "y": 240,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "imp_witch_dangle_struggle": {
+      "frame": {
+        "x": 336,
+        "y": 240,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "imp_witch_slapped_react": {
+      "frame": {
+        "x": 384,
+        "y": 240,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "hellforge_smith_idle_0": {
+      "frame": {
+        "x": 0,
+        "y": 288,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "hellforge_smith_idle_1": {
+      "frame": {
+        "x": 48,
+        "y": 288,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "hellforge_smith_walk_0": {
+      "frame": {
+        "x": 96,
+        "y": 288,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "hellforge_smith_walk_1": {
+      "frame": {
+        "x": 144,
+        "y": 288,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "hellforge_smith_walk_2": {
+      "frame": {
+        "x": 192,
+        "y": 288,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "hellforge_smith_action_0": {
+      "frame": {
+        "x": 240,
+        "y": 288,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "hellforge_smith_action_1": {
+      "frame": {
+        "x": 288,
+        "y": 288,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "hellforge_smith_dangle_struggle": {
+      "frame": {
+        "x": 336,
+        "y": 288,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "hellforge_smith_slapped_react": {
+      "frame": {
+        "x": 384,
+        "y": 288,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "crimson_succubus_idle_0": {
+      "frame": {
+        "x": 0,
+        "y": 336,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "crimson_succubus_idle_1": {
+      "frame": {
+        "x": 48,
+        "y": 336,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "crimson_succubus_walk_0": {
+      "frame": {
+        "x": 96,
+        "y": 336,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "crimson_succubus_walk_1": {
+      "frame": {
+        "x": 144,
+        "y": 336,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "crimson_succubus_walk_2": {
+      "frame": {
+        "x": 192,
+        "y": 336,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "crimson_succubus_action_0": {
+      "frame": {
+        "x": 240,
+        "y": 336,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "crimson_succubus_action_1": {
+      "frame": {
+        "x": 288,
+        "y": 336,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "crimson_succubus_dangle_struggle": {
+      "frame": {
+        "x": 336,
+        "y": 336,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "crimson_succubus_slapped_react": {
+      "frame": {
+        "x": 384,
+        "y": 336,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "necro_cantor_idle_0": {
+      "frame": {
+        "x": 0,
+        "y": 384,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "necro_cantor_idle_1": {
+      "frame": {
+        "x": 48,
+        "y": 384,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "necro_cantor_walk_0": {
+      "frame": {
+        "x": 96,
+        "y": 384,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "necro_cantor_walk_1": {
+      "frame": {
+        "x": 144,
+        "y": 384,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "necro_cantor_walk_2": {
+      "frame": {
+        "x": 192,
+        "y": 384,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "necro_cantor_action_0": {
+      "frame": {
+        "x": 240,
+        "y": 384,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "necro_cantor_action_1": {
+      "frame": {
+        "x": 288,
+        "y": 384,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "necro_cantor_dangle_struggle": {
+      "frame": {
+        "x": 336,
+        "y": 384,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "necro_cantor_slapped_react": {
+      "frame": {
+        "x": 384,
+        "y": 384,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "obsidian_dragonmaid_idle_0": {
+      "frame": {
+        "x": 0,
+        "y": 432,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "obsidian_dragonmaid_idle_1": {
+      "frame": {
+        "x": 48,
+        "y": 432,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "obsidian_dragonmaid_walk_0": {
+      "frame": {
+        "x": 96,
+        "y": 432,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "obsidian_dragonmaid_walk_1": {
+      "frame": {
+        "x": 144,
+        "y": 432,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "obsidian_dragonmaid_walk_2": {
+      "frame": {
+        "x": 192,
+        "y": 432,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "obsidian_dragonmaid_action_0": {
+      "frame": {
+        "x": 240,
+        "y": 432,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "obsidian_dragonmaid_action_1": {
+      "frame": {
+        "x": 288,
+        "y": 432,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "obsidian_dragonmaid_dangle_struggle": {
+      "frame": {
+        "x": 336,
+        "y": 432,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "obsidian_dragonmaid_slapped_react": {
+      "frame": {
+        "x": 384,
+        "y": 432,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "arachne_weaver_idle_0": {
+      "frame": {
+        "x": 0,
+        "y": 480,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "arachne_weaver_idle_1": {
+      "frame": {
+        "x": 48,
+        "y": 480,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "arachne_weaver_walk_0": {
+      "frame": {
+        "x": 96,
+        "y": 480,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "arachne_weaver_walk_1": {
+      "frame": {
+        "x": 144,
+        "y": 480,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "arachne_weaver_walk_2": {
+      "frame": {
+        "x": 192,
+        "y": 480,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "arachne_weaver_action_0": {
+      "frame": {
+        "x": 240,
+        "y": 480,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "arachne_weaver_action_1": {
+      "frame": {
+        "x": 288,
+        "y": 480,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "arachne_weaver_dangle_struggle": {
+      "frame": {
+        "x": 336,
+        "y": 480,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "arachne_weaver_slapped_react": {
+      "frame": {
+        "x": 384,
+        "y": 480,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "fallen_paladin_idle_0": {
+      "frame": {
+        "x": 0,
+        "y": 528,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "fallen_paladin_idle_1": {
+      "frame": {
+        "x": 48,
+        "y": 528,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "fallen_paladin_walk_0": {
+      "frame": {
+        "x": 96,
+        "y": 528,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "fallen_paladin_walk_1": {
+      "frame": {
+        "x": 144,
+        "y": 528,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "fallen_paladin_walk_2": {
+      "frame": {
+        "x": 192,
+        "y": 528,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "fallen_paladin_action_0": {
+      "frame": {
+        "x": 240,
+        "y": 528,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "fallen_paladin_action_1": {
+      "frame": {
+        "x": 288,
+        "y": 528,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "fallen_paladin_dangle_struggle": {
+      "frame": {
+        "x": 336,
+        "y": 528,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "fallen_paladin_slapped_react": {
+      "frame": {
+        "x": 384,
+        "y": 528,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "corrupted_sister_idle_0": {
+      "frame": {
+        "x": 0,
+        "y": 576,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "corrupted_sister_idle_1": {
+      "frame": {
+        "x": 48,
+        "y": 576,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "corrupted_sister_walk_0": {
+      "frame": {
+        "x": 96,
+        "y": 576,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "corrupted_sister_walk_1": {
+      "frame": {
+        "x": 144,
+        "y": 576,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "corrupted_sister_walk_2": {
+      "frame": {
+        "x": 192,
+        "y": 576,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "corrupted_sister_action_0": {
+      "frame": {
+        "x": 240,
+        "y": 576,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "corrupted_sister_action_1": {
+      "frame": {
+        "x": 288,
+        "y": 576,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "corrupted_sister_dangle_struggle": {
+      "frame": {
+        "x": 336,
+        "y": 576,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "corrupted_sister_slapped_react": {
+      "frame": {
+        "x": 384,
+        "y": 576,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "abyssal_ranger_idle_0": {
+      "frame": {
+        "x": 0,
+        "y": 624,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "abyssal_ranger_idle_1": {
+      "frame": {
+        "x": 48,
+        "y": 624,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "abyssal_ranger_walk_0": {
+      "frame": {
+        "x": 96,
+        "y": 624,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "abyssal_ranger_walk_1": {
+      "frame": {
+        "x": 144,
+        "y": 624,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "abyssal_ranger_walk_2": {
+      "frame": {
+        "x": 192,
+        "y": 624,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "abyssal_ranger_action_0": {
+      "frame": {
+        "x": 240,
+        "y": 624,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "abyssal_ranger_action_1": {
+      "frame": {
+        "x": 288,
+        "y": 624,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "abyssal_ranger_dangle_struggle": {
+      "frame": {
+        "x": 336,
+        "y": 624,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "abyssal_ranger_slapped_react": {
+      "frame": {
+        "x": 384,
+        "y": 624,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "novice_adventurer_idle_0": {
+      "frame": {
+        "x": 0,
+        "y": 672,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "novice_adventurer_idle_1": {
+      "frame": {
+        "x": 48,
+        "y": 672,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "novice_adventurer_walk_0": {
+      "frame": {
+        "x": 96,
+        "y": 672,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "novice_adventurer_walk_1": {
+      "frame": {
+        "x": 144,
+        "y": 672,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "novice_adventurer_walk_2": {
+      "frame": {
+        "x": 192,
+        "y": 672,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "novice_adventurer_action_0": {
+      "frame": {
+        "x": 240,
+        "y": 672,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "novice_adventurer_action_1": {
+      "frame": {
+        "x": 288,
+        "y": 672,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "novice_adventurer_dangle_struggle": {
+      "frame": {
+        "x": 336,
+        "y": 672,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "novice_adventurer_slapped_react": {
+      "frame": {
+        "x": 384,
+        "y": 672,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "dwarf_gold_thief_idle_0": {
+      "frame": {
+        "x": 0,
+        "y": 720,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "dwarf_gold_thief_idle_1": {
+      "frame": {
+        "x": 48,
+        "y": 720,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "dwarf_gold_thief_walk_0": {
+      "frame": {
+        "x": 96,
+        "y": 720,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "dwarf_gold_thief_walk_1": {
+      "frame": {
+        "x": 144,
+        "y": 720,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "dwarf_gold_thief_walk_2": {
+      "frame": {
+        "x": 192,
+        "y": 720,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "dwarf_gold_thief_action_0": {
+      "frame": {
+        "x": 240,
+        "y": 720,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "dwarf_gold_thief_action_1": {
+      "frame": {
+        "x": 288,
+        "y": 720,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "dwarf_gold_thief_dangle_struggle": {
+      "frame": {
+        "x": 336,
+        "y": 720,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "dwarf_gold_thief_slapped_react": {
+      "frame": {
+        "x": 384,
+        "y": 720,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "holy_sister_idle_0": {
+      "frame": {
+        "x": 0,
+        "y": 768,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "holy_sister_idle_1": {
+      "frame": {
+        "x": 48,
+        "y": 768,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "holy_sister_walk_0": {
+      "frame": {
+        "x": 96,
+        "y": 768,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "holy_sister_walk_1": {
+      "frame": {
+        "x": 144,
+        "y": 768,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "holy_sister_walk_2": {
+      "frame": {
+        "x": 192,
+        "y": 768,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "holy_sister_action_0": {
+      "frame": {
+        "x": 240,
+        "y": 768,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "holy_sister_action_1": {
+      "frame": {
+        "x": 288,
+        "y": 768,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "holy_sister_dangle_struggle": {
+      "frame": {
+        "x": 336,
+        "y": 768,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "holy_sister_slapped_react": {
+      "frame": {
+        "x": 384,
+        "y": 768,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "elf_sharpshooter_idle_0": {
+      "frame": {
+        "x": 0,
+        "y": 816,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "elf_sharpshooter_idle_1": {
+      "frame": {
+        "x": 48,
+        "y": 816,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "elf_sharpshooter_walk_0": {
+      "frame": {
+        "x": 96,
+        "y": 816,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "elf_sharpshooter_walk_1": {
+      "frame": {
+        "x": 144,
+        "y": 816,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "elf_sharpshooter_walk_2": {
+      "frame": {
+        "x": 192,
+        "y": 816,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "elf_sharpshooter_action_0": {
+      "frame": {
+        "x": 240,
+        "y": 816,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "elf_sharpshooter_action_1": {
+      "frame": {
+        "x": 288,
+        "y": 816,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "elf_sharpshooter_dangle_struggle": {
+      "frame": {
+        "x": 336,
+        "y": 816,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "elf_sharpshooter_slapped_react": {
+      "frame": {
+        "x": 384,
+        "y": 816,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "holy_knight_idle_0": {
+      "frame": {
+        "x": 0,
+        "y": 864,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "holy_knight_idle_1": {
+      "frame": {
+        "x": 48,
+        "y": 864,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "holy_knight_walk_0": {
+      "frame": {
+        "x": 96,
+        "y": 864,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "holy_knight_walk_1": {
+      "frame": {
+        "x": 144,
+        "y": 864,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "holy_knight_walk_2": {
+      "frame": {
+        "x": 192,
+        "y": 864,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "holy_knight_action_0": {
+      "frame": {
+        "x": 240,
+        "y": 864,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "holy_knight_action_1": {
+      "frame": {
+        "x": 288,
+        "y": 864,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "holy_knight_dangle_struggle": {
+      "frame": {
+        "x": 336,
+        "y": 864,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "holy_knight_slapped_react": {
+      "frame": {
+        "x": 384,
+        "y": 864,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "lord_inquisitor_idle_0": {
+      "frame": {
+        "x": 0,
+        "y": 912,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "lord_inquisitor_idle_1": {
+      "frame": {
+        "x": 48,
+        "y": 912,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "lord_inquisitor_walk_0": {
+      "frame": {
+        "x": 96,
+        "y": 912,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "lord_inquisitor_walk_1": {
+      "frame": {
+        "x": 144,
+        "y": 912,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "lord_inquisitor_walk_2": {
+      "frame": {
+        "x": 192,
+        "y": 912,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "lord_inquisitor_action_0": {
+      "frame": {
+        "x": 240,
+        "y": 912,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "lord_inquisitor_action_1": {
+      "frame": {
+        "x": 288,
+        "y": 912,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "lord_inquisitor_dangle_struggle": {
+      "frame": {
+        "x": 336,
+        "y": 912,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    "lord_inquisitor_slapped_react": {
+      "frame": {
+        "x": 384,
+        "y": 912,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    }
+  },
+  "animations": {
+    "lilith_overlord_idle": [
+      "lilith_overlord_idle_0",
+      "lilith_overlord_idle_1"
+    ],
+    "lilith_overlord_walk": [
+      "lilith_overlord_walk_0",
+      "lilith_overlord_walk_1",
+      "lilith_overlord_walk_2",
+      "lilith_overlord_walk_1"
+    ],
+    "lilith_overlord_action": [
+      "lilith_overlord_action_0",
+      "lilith_overlord_action_1"
+    ],
+    "elizabeth_overlord_idle": [
+      "elizabeth_overlord_idle_0",
+      "elizabeth_overlord_idle_1"
+    ],
+    "elizabeth_overlord_walk": [
+      "elizabeth_overlord_walk_0",
+      "elizabeth_overlord_walk_1",
+      "elizabeth_overlord_walk_2",
+      "elizabeth_overlord_walk_1"
+    ],
+    "elizabeth_overlord_action": [
+      "elizabeth_overlord_action_0",
+      "elizabeth_overlord_action_1"
+    ],
+    "imp_idle": [
+      "imp_idle_0",
+      "imp_idle_1"
+    ],
+    "imp_walk": [
+      "imp_walk_0",
+      "imp_walk_1",
+      "imp_walk_2",
+      "imp_walk_1"
+    ],
+    "imp_action": [
+      "imp_action_0",
+      "imp_action_1"
+    ],
+    "slime_girl_idle": [
+      "slime_girl_idle_0",
+      "slime_girl_idle_1"
+    ],
+    "slime_girl_walk": [
+      "slime_girl_walk_0",
+      "slime_girl_walk_1",
+      "slime_girl_walk_2",
+      "slime_girl_walk_1"
+    ],
+    "slime_girl_action": [
+      "slime_girl_action_0",
+      "slime_girl_action_1"
+    ],
+    "skeleton_blademaid_idle": [
+      "skeleton_blademaid_idle_0",
+      "skeleton_blademaid_idle_1"
+    ],
+    "skeleton_blademaid_walk": [
+      "skeleton_blademaid_walk_0",
+      "skeleton_blademaid_walk_1",
+      "skeleton_blademaid_walk_2",
+      "skeleton_blademaid_walk_1"
+    ],
+    "skeleton_blademaid_action": [
+      "skeleton_blademaid_action_0",
+      "skeleton_blademaid_action_1"
+    ],
+    "imp_witch_idle": [
+      "imp_witch_idle_0",
+      "imp_witch_idle_1"
+    ],
+    "imp_witch_walk": [
+      "imp_witch_walk_0",
+      "imp_witch_walk_1",
+      "imp_witch_walk_2",
+      "imp_witch_walk_1"
+    ],
+    "imp_witch_action": [
+      "imp_witch_action_0",
+      "imp_witch_action_1"
+    ],
+    "hellforge_smith_idle": [
+      "hellforge_smith_idle_0",
+      "hellforge_smith_idle_1"
+    ],
+    "hellforge_smith_walk": [
+      "hellforge_smith_walk_0",
+      "hellforge_smith_walk_1",
+      "hellforge_smith_walk_2",
+      "hellforge_smith_walk_1"
+    ],
+    "hellforge_smith_action": [
+      "hellforge_smith_action_0",
+      "hellforge_smith_action_1"
+    ],
+    "crimson_succubus_idle": [
+      "crimson_succubus_idle_0",
+      "crimson_succubus_idle_1"
+    ],
+    "crimson_succubus_walk": [
+      "crimson_succubus_walk_0",
+      "crimson_succubus_walk_1",
+      "crimson_succubus_walk_2",
+      "crimson_succubus_walk_1"
+    ],
+    "crimson_succubus_action": [
+      "crimson_succubus_action_0",
+      "crimson_succubus_action_1"
+    ],
+    "necro_cantor_idle": [
+      "necro_cantor_idle_0",
+      "necro_cantor_idle_1"
+    ],
+    "necro_cantor_walk": [
+      "necro_cantor_walk_0",
+      "necro_cantor_walk_1",
+      "necro_cantor_walk_2",
+      "necro_cantor_walk_1"
+    ],
+    "necro_cantor_action": [
+      "necro_cantor_action_0",
+      "necro_cantor_action_1"
+    ],
+    "obsidian_dragonmaid_idle": [
+      "obsidian_dragonmaid_idle_0",
+      "obsidian_dragonmaid_idle_1"
+    ],
+    "obsidian_dragonmaid_walk": [
+      "obsidian_dragonmaid_walk_0",
+      "obsidian_dragonmaid_walk_1",
+      "obsidian_dragonmaid_walk_2",
+      "obsidian_dragonmaid_walk_1"
+    ],
+    "obsidian_dragonmaid_action": [
+      "obsidian_dragonmaid_action_0",
+      "obsidian_dragonmaid_action_1"
+    ],
+    "arachne_weaver_idle": [
+      "arachne_weaver_idle_0",
+      "arachne_weaver_idle_1"
+    ],
+    "arachne_weaver_walk": [
+      "arachne_weaver_walk_0",
+      "arachne_weaver_walk_1",
+      "arachne_weaver_walk_2",
+      "arachne_weaver_walk_1"
+    ],
+    "arachne_weaver_action": [
+      "arachne_weaver_action_0",
+      "arachne_weaver_action_1"
+    ],
+    "fallen_paladin_idle": [
+      "fallen_paladin_idle_0",
+      "fallen_paladin_idle_1"
+    ],
+    "fallen_paladin_walk": [
+      "fallen_paladin_walk_0",
+      "fallen_paladin_walk_1",
+      "fallen_paladin_walk_2",
+      "fallen_paladin_walk_1"
+    ],
+    "fallen_paladin_action": [
+      "fallen_paladin_action_0",
+      "fallen_paladin_action_1"
+    ],
+    "corrupted_sister_idle": [
+      "corrupted_sister_idle_0",
+      "corrupted_sister_idle_1"
+    ],
+    "corrupted_sister_walk": [
+      "corrupted_sister_walk_0",
+      "corrupted_sister_walk_1",
+      "corrupted_sister_walk_2",
+      "corrupted_sister_walk_1"
+    ],
+    "corrupted_sister_action": [
+      "corrupted_sister_action_0",
+      "corrupted_sister_action_1"
+    ],
+    "abyssal_ranger_idle": [
+      "abyssal_ranger_idle_0",
+      "abyssal_ranger_idle_1"
+    ],
+    "abyssal_ranger_walk": [
+      "abyssal_ranger_walk_0",
+      "abyssal_ranger_walk_1",
+      "abyssal_ranger_walk_2",
+      "abyssal_ranger_walk_1"
+    ],
+    "abyssal_ranger_action": [
+      "abyssal_ranger_action_0",
+      "abyssal_ranger_action_1"
+    ],
+    "novice_adventurer_idle": [
+      "novice_adventurer_idle_0",
+      "novice_adventurer_idle_1"
+    ],
+    "novice_adventurer_walk": [
+      "novice_adventurer_walk_0",
+      "novice_adventurer_walk_1",
+      "novice_adventurer_walk_2",
+      "novice_adventurer_walk_1"
+    ],
+    "novice_adventurer_action": [
+      "novice_adventurer_action_0",
+      "novice_adventurer_action_1"
+    ],
+    "dwarf_gold_thief_idle": [
+      "dwarf_gold_thief_idle_0",
+      "dwarf_gold_thief_idle_1"
+    ],
+    "dwarf_gold_thief_walk": [
+      "dwarf_gold_thief_walk_0",
+      "dwarf_gold_thief_walk_1",
+      "dwarf_gold_thief_walk_2",
+      "dwarf_gold_thief_walk_1"
+    ],
+    "dwarf_gold_thief_action": [
+      "dwarf_gold_thief_action_0",
+      "dwarf_gold_thief_action_1"
+    ],
+    "holy_sister_idle": [
+      "holy_sister_idle_0",
+      "holy_sister_idle_1"
+    ],
+    "holy_sister_walk": [
+      "holy_sister_walk_0",
+      "holy_sister_walk_1",
+      "holy_sister_walk_2",
+      "holy_sister_walk_1"
+    ],
+    "holy_sister_action": [
+      "holy_sister_action_0",
+      "holy_sister_action_1"
+    ],
+    "elf_sharpshooter_idle": [
+      "elf_sharpshooter_idle_0",
+      "elf_sharpshooter_idle_1"
+    ],
+    "elf_sharpshooter_walk": [
+      "elf_sharpshooter_walk_0",
+      "elf_sharpshooter_walk_1",
+      "elf_sharpshooter_walk_2",
+      "elf_sharpshooter_walk_1"
+    ],
+    "elf_sharpshooter_action": [
+      "elf_sharpshooter_action_0",
+      "elf_sharpshooter_action_1"
+    ],
+    "holy_knight_idle": [
+      "holy_knight_idle_0",
+      "holy_knight_idle_1"
+    ],
+    "holy_knight_walk": [
+      "holy_knight_walk_0",
+      "holy_knight_walk_1",
+      "holy_knight_walk_2",
+      "holy_knight_walk_1"
+    ],
+    "holy_knight_action": [
+      "holy_knight_action_0",
+      "holy_knight_action_1"
+    ],
+    "lord_inquisitor_idle": [
+      "lord_inquisitor_idle_0",
+      "lord_inquisitor_idle_1"
+    ],
+    "lord_inquisitor_walk": [
+      "lord_inquisitor_walk_0",
+      "lord_inquisitor_walk_1",
+      "lord_inquisitor_walk_2",
+      "lord_inquisitor_walk_1"
+    ],
+    "lord_inquisitor_action": [
+      "lord_inquisitor_action_0",
+      "lord_inquisitor_action_1"
+    ]
+  },
+  "meta": {
+    "app": "keeper-pet-pixel-normalize",
+    "version": "1.0",
+    "image": "units_spritesheet.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 432,
+      "h": 960
+    },
+    "scale": "1"
+  }
+}
