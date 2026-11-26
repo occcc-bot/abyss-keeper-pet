@@ -15,18 +15,11 @@
 
 ---
 
-## 🚀 小白三秒开玩指南（免安装！）
-
-### 方式一：发给朋友直接网页试玩（免下载，点开即玩）
+### 网页试玩
 - 👉 **在线试玩地址**：**[https://occcc-bot.github.io/abyss-keeper-pet/](https://occcc-bot.github.io/abyss-keeper-pet/)**  
-  *（用电脑浏览器点开即可体验完整地牢玩法；支持页面右上角 `[⚙]` 或王座面板一键切换 **简体中文 / English**。）*
 
-### 方式二：Windows 桌面透明穿透完整版（推荐！解压双击就能玩）
+### 方式二：Windows 桌面透明穿透完整版（推荐！）
 1. **点击直接下载压缩包**：👉 **[AbyssKeeperPet-v2.5.0-Win64.zip（约 11 MB）](https://github.com/occcc-bot/abyss-keeper-pet/releases/latest/download/AbyssKeeperPet-v2.5.0-Win64.zip)**  
-   *(⚠️ 新手提示：**不要**点页面右上角绿色的 `<> Code -> Download ZIP`，那个是给程序员看的源代码，里面没有游戏程序！请直接点上面这个黄色按钮或右边栏的 `Releases` 下载 `Win64.zip`。)*
-2. 把下载好的 `.zip` 压缩包**右键全部解压**到任意文件夹。
-3. 双击里面的 **`keeper-pet.exe`** 即可启动！魔王城会自动贴合在你的任务栏正上方，上方的桌面区域完全鼠标穿透，不挡聊天和办公。
-   - *首次启动小提示*：因为是免费个人开源作品（未购买商业数字签名证书），如果 Windows 弹出蓝色保护提示框，点一下框里的 **「更多信息 (More info)」→「仍要运行 (Run anyway)」** 即可正常进入。
 
 ---
 
