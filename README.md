@@ -108,6 +108,12 @@ cargo build --release --manifest-path src-tauri/Cargo.toml
 
 ---
 
+## Community & Acknowledgements · 社区与致谢
+
+- 感谢 **[LINUX DO](https://linux.do/)** 开源技术社区的交流与支持（[![LINUX DO](https://img.shields.io/badge/Community-LINUX%20DO-f0a500)](https://linux.do/)）。
+
+---
+
 ## License · 开源协议
 
 Released under the [MIT License](LICENSE) (includes generative AI art/music asset disclosure).
